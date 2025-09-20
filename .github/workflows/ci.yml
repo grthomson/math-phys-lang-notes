@@ -20,4 +20,4 @@ jobs:
 
       - name: Run duplicate/orphan checks
         run: |
-          python scripts/check_notes.py
+          python scripts/check_note_hygiene.py
