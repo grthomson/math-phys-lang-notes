@@ -1,6 +1,6 @@
 # Maths–Physics–Language Notes
 
-[![CI](https://github.com/your-username/math-phys-lang-notes/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/math-phys-lang-notes/actions/workflows/ci.yml)
+[![CI](https://github.com/grthomson/math-phys-lang-notes/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/grthomson/math-phys-lang-notes/actions/workflows/ci.yml)
 
 Obsidian vault containing ongoing personal notes on maths/physics/language.
 
