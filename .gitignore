@@ -1,0 +1,15 @@
+# Obsidian system files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.obsidian/cache
+.obsidian/plugins
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE junk
+*.swp
+*.swo
+*.tmp
