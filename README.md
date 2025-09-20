@@ -1,4 +1,4 @@
-# Math–Physics–Language Notes
+# Maths–Physics–Language Notes
 
 Obsidian vault containing ongoing personal notes on maths/physics/language.  
 
