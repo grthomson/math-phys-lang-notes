@@ -4,6 +4,9 @@
 .obsidian/appearance.json
 .obsidian/cache
 .obsidian/plugins
+.obsidian/app.json
+.obsidian/graph.json
+.obsidian/community-plugins.json
 
 # OS-specific junk
 .DS_Store

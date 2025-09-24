@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -20,9 +20,16 @@
         "a": 1,
         "rgb": 4521728
       }
+    },
+    {
+      "query": "path:linguistics  ",
+      "color": {
+        "a": 1,
+        "rgb": 584957
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.370841995842,
@@ -32,6 +39,6 @@
   "repelStrength": 12.5883575883576,
   "linkStrength": 0.841476091476092,
   "linkDistance": 37,
-  "scale": 0.651083592047166,
+  "scale": 0.6621766869700619,
   "close": true
 }

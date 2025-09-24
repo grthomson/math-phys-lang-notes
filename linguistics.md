@@ -5,3 +5,6 @@ desc: ''
 updated: 1727527204276
 created: 1727527204276
 ---
+
+### Connections
+- Mathematical crossover: [[hopf-algebra]]
