@@ -10,5 +10,5 @@ up:
 The fundamental group is a functor from the category of topological spaces to the category of groups. Learn more about functors in [[maths/category-theory/functors]].
 
 <!-- PARENT: auto -->
-Parent: [[maths/algebraic-topology/homotopy|homotopy]]
+Parent: [[homotopy|homotopy]]
 <!-- /PARENT -->

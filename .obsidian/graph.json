@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:\"_hidden/\"",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "path:physics  ",
+      "query": "path:physics/quantum  ",
       "color": {
         "a": 1,
-        "rgb": 4521728
+        "rgb": 16514816
       }
     },
     {
@@ -27,18 +27,32 @@
         "a": 1,
         "rgb": 584957
       }
+    },
+    {
+      "query": "path:physics/astro  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
+      }
+    },
+    {
+      "query": "path:physics/classical  ",
+      "color": {
+        "a": 1,
+        "rgb": 5111552
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.370841995842,
-  "lineSizeMultiplier": 1.08560291060291,
+  "nodeSizeMultiplier": 1.60230308219178,
+  "lineSizeMultiplier": 1.46805650684931,
   "collapse-forces": false,
-  "centerStrength": 0.487525987525988,
-  "repelStrength": 10.0831600831601,
-  "linkStrength": 0.91995841995842,
+  "centerStrength": 0.542208904109589,
+  "repelStrength": 11.611301369863,
+  "linkStrength": 0.558561643835617,
   "linkDistance": 30,
-  "scale": 0.6445171371513939,
-  "close": false
+  "scale": 0.4507958961811225,
+  "close": true
 }

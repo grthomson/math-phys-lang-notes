@@ -179,5 +179,5 @@ Alternatively, define 𝑇 𝑝 𝑀 as equivalence classes of smooth curves �
 Why does this matter? Because on an abstract manifold, the geometric tangent space doesn't have any coordinate-independent meaning, but the space of derivations at p does. So we take the space of derivations at p as our definition of the tangent space to M at p.
 
 <!-- PARENT: auto -->
-Parent: [[maths/geometric-topology|geometric-topology]]
+Parent: [[geometric-topology|geometric-topology]]
 <!-- /PARENT -->

@@ -12,5 +12,5 @@ TODO: connectedness
 ---
 
 ### Cross-links
-- [[maths/algebraic-topology|Algebraic Topology]]
-- [[maths/geometric-topology|Geometric Topology]]
+- [[algebraic-topology|Algebraic Topology]]
+- [[geometric-topology|Geometric Topology]]

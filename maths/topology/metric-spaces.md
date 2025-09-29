@@ -28,5 +28,4 @@ A **metric space** is a pair $(X,d)$ where $d:X\times X\to \mathbb{R}$ satisfies
 
 - Compactness in metric spaces → TODO
 - Connectedness in metric spaces → TODO
-- Homotopy theory uses path-connectedness → [[maths/algebraic-topology/homotopy|homotopy]]  
-- Algebraic invariants often assume underlying metric/topological structure → [[maths/algebraic-topology|algebraic topology]]
+

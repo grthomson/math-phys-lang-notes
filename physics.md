@@ -24,3 +24,10 @@ created: 1727527200051
 - [[physics/quantum|quantum]]
 
 <!-- /CHILDREN -->
+
+<!-- CHILDREN:START -->
+## children
+- [[physics/classical|classical]]
+- [[physics/quantum|quantum]]
+- [[physics/astro|astro]]
+<!-- CHILDREN:END -->

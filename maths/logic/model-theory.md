@@ -5,9 +5,9 @@ desc: ''
 updated: 1727531969070
 created: 1727531969070
 up:
-  - [[maths]]
+  - [[logic]]
 ---
 
 <!-- PARENT: auto -->
-Parent: [[maths|maths]]
+Parent: [[logic|maths]]
 <!-- /PARENT -->

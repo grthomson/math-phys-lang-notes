@@ -5,7 +5,7 @@ desc: ''
 updated: 1744804965777
 created: 1744743002000
 up:
-  - [[maths]]
+  - [[topology]]
 ---
 
 
@@ -26,10 +26,10 @@ up:
 <!-- CHILDREN: auto-generated, do not edit -->
 
 ## Children
-- [[maths/geometric-topology/poincare-conjecture|poincare-conjecture]]
+- [[poincare-conjecture|poincare-conjecture]]
 
 <!-- /CHILDREN -->
 
 <!-- PARENT: auto -->
-Parent: [[maths|maths]]
+Parent: [[topology]]
 <!-- /PARENT -->

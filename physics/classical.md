@@ -22,3 +22,17 @@ up:
 <!-- PARENT: auto -->
 Parent: [[physics|physics]]
 <!-- /PARENT -->
+
+<!-- CHILDREN:START -->
+## children
+- [[physics/classical/mechanics|mechanics]]
+- [[physics/classical/electrodynamics|electrodynamics]]
+- [[physics/classical/electromagnetism|electromagnetism]]
+- [[physics/classical/thermodynamics|thermodynamics]]
+- [[physics/classical/statistical-mechanics|statistical-mechanics]]
+- [[physics/classical/continuum-mechanics|continuum-mechanics]]
+- [[physics/classical/fluid-dynamics|fluid-dynamics]]
+- [[physics/classical/optics|optics]]
+- [[physics/classical/general-relativity|general-relativity]]
+- [[physics/classical/topics|topics]]
+<!-- CHILDREN:END -->

@@ -5,7 +5,7 @@ up:
 ---
 
 <!-- PARENT: auto -->
-Parent: [[maths/algebraic-topology|algebraic topology]]
+Parent: [[algebraic-topology|algebraic topology]]
 <!-- /PARENT -->
 
 # Borsuk–Ulam Theorem

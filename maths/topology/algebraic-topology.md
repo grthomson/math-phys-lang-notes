@@ -5,17 +5,17 @@ desc: ''
 updated: 1727527217622
 created: 1727527217622
 up:
-  - [[maths]]
+  - [[topology]]
 ---
 
 <!-- CHILDREN: auto-generated, do not edit -->
 
 ## Children
-- [[maths/algebraic-topology/homotopy|homotopy]]
-- [[maths/algebraic-topology/homotopy|homotopy]]
+- [[homotopy|homotopy]]
+- [[homotopy|homotopy]]
 
 <!-- /CHILDREN -->
 
 <!-- PARENT: auto -->
-Parent: [[maths|maths]]
+Parent: [[topology|maths]]
 <!-- /PARENT -->

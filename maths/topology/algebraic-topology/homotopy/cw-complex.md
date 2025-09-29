@@ -9,5 +9,5 @@ up:
 ---
 
 <!-- PARENT: auto -->
-Parent: [[maths/algebraic-topology/homotopy|homotopy]]
+Parent: [[homotopy|homotopy]]
 <!-- /PARENT -->
