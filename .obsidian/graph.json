@@ -41,18 +41,32 @@
         "a": 1,
         "rgb": 5111552
       }
+    },
+    {
+      "query": "file:physics",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "file:quantum_groups_pdf",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1,
+  "textFadeMultiplier": -1.3,
   "nodeSizeMultiplier": 1.60230308219178,
   "lineSizeMultiplier": 1.46805650684931,
   "collapse-forces": false,
-  "centerStrength": 0.542208904109589,
-  "repelStrength": 11.611301369863,
-  "linkStrength": 0.558561643835617,
-  "linkDistance": 30,
-  "scale": 0.4507958961811225,
-  "close": true
+  "centerStrength": 0.63527397260274,
+  "repelStrength": 13.6934931506849,
+  "linkStrength": 0.76138698630137,
+  "linkDistance": 110,
+  "scale": 0.4487980597702229,
+  "close": false
 }
