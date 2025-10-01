@@ -20,3 +20,4 @@ django?
 writing tests in Jest, Cypress or Playwright
  web interfaces with large DOM views
  TensorFlow, PyTorch, or Keras
+ DBs with containers:  delayed replicas, poolers, backups, and ships WAL to object storage. We also operate elasticsearch clusters and other persistent stateful workloads.
